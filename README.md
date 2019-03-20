@@ -1,3 +1,6 @@
+This app was proposed by enye.tech  as criteria to passing a developer test.
+This is a Todo List app, users are expected to add item by clicking add buttn and remove item added by clicking on the item you want to remove.
+Below are my help reference and instructions.
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
